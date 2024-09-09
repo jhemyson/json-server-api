@@ -12,32 +12,6 @@
       "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
       "videoFileURL": "https://tr.vid.web.acsta.net/uk/medias/nmedia/90/21/09/02/09/19560314_hd_013.mp4",
       "rating": "r"
-    },
-    {
-      "id": 102,
-      "title": "Space Force",
-      "description": "A four-star general begrudgingly teams up with an eccentric scientist to get the U.S. military's newest agency — Space Force — ready for lift-off.",
-      "yearLaunched": "2020",
-      "link": "/watch/102",
-      "castMembers": ["Steve Carell", "John Malkovich", "Ben Schwartz"],
-      "genres": ["Comedy"],
-      "thumbFileURL": "https://m.media-amazon.com/images/M/MV5BZTFiNjdjZTEtZWMwNy00NGQ5LWE4ZWQtZjI2YTI3MzMwMGIyXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
-      "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BZTFiNjdjZTEtZWMwNy00NGQ5LWE4ZWQtZjI2YTI3MzMwMGIyXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg",
-      "videoFileURL": "https://tr.vid.web.acsta.net/uk/medias/nmedia/90/20/05/05/15//19555893_hd_013.mp4",
-      "rating": "pg-13"
-    },
-    {
-      "id": 103,
-      "title": "Stranger Things",
-      "description": "A group of young friends must confront terrifying forces in order to get him back.",
-      "yearLaunched": "2016",
-      "link": "/watch/103",
-      "castMembers": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
-      "genres": ["Drama", "Fantasy", "Horror"],
-      "thumbFileURL": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-      "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-      "videoFileURL": "https://tr.vid.web.acsta.net/uk/medias/nmedia/90/16/06/10/15/19541945_hd_013.mp4",
-      "rating": "pg-13"
     }
   ],
   "movies": [
@@ -53,45 +27,6 @@
       "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX380_CR0,4,380,562_.jpg",
       "videoFileURL": "https://stream.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/low.mp4",
       "rating": "r"
-    },
-    {
-      "id": 2,
-      "title": "The Godfather",
-      "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
-      "yearLaunched": "1972",
-      "link": "/watch/2",
-      "castMembers": ["Marlon Brando", "Al Pacino", "James Caan"],
-      "genres": ["Crime", "Drama"],
-      "thumbFileURL": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR4,0,190,281_.jpg",
-      "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY422_CR6,0,285,422_.jpg",
-      "videoFileURL": "https://stream.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/low.mp4",
-      "rating": "pg-13"
-    },
-    {
-      "id": 3,
-      "title": "The Dark Knight",
-      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-      "yearLaunched": "2008",
-      "link": "/watch/3",
-      "castMembers": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-      "genres": ["Action", "Crime", "Drama"],
-      "thumbFileURL": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
-      "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX285_CR0,0,285,422_.jpg",
-      "videoFileURL": "https://stream.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/low.mp4",
-      "rating": "nc-17"
-    },
-    {
-      "id": 4,
-      "title": "Schindler's List",
-      "description": "In German-occupied Poland during World War II, industrialist ",
-      "yearLaunched": "1993",
-      "link": "/watch/4",
-      "castMembers": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
-      "genres": ["Biography", "Drama", "History"],
-      "thumbFileURL": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",
-      "bannerFileURL": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX285_CR0,3,285,422_.jpg",
-      "videoFileURL": "https://stream.mux.com/VZtzUzGRv02OhRnZCxcNg49OilvolTqdnFLEqBsTwaxU/low.mp4",
-      "rating": "pg"
     }
   ]
 }
